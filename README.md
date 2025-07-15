@@ -4,6 +4,13 @@ Esta aplicación permite registrar y gestionar visitantes en una oficina, cumpli
 
 ## Funcionalidades
 
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/6618cc24-0a14-41af-bcbb-09d4c22e0534" width="200" height="400">
+  <img src="https://github.com/user-attachments/assets/9a829c13-29cf-4813-b180-e5cfbafb48ef" width="200" height="400">
+   <img src="https://github.com/user-attachments/assets/adf63c21-462b-46dc-8530-21f7285ef501" width="200" height="400">
+</p>
+
+
 1. **Pantalla de Login**
    - Inicio de sesión con correo y contraseña usando Supabase (y Firebase para almacenamiento de visitantes).
    - Validación de campos y mensajes claros de error.
